@@ -1,0 +1,9 @@
+# Title: PaulNacamuli/hosts
+#
+# My DNSBL
+# Fetch the latest version of this file: https://raw.githubusercontent.com/PaulNacamuli/hosts/master/hosts.txt
+# Home page: https://github.com/PaulNacamuli/hosts
+#
+# ===============================================================
+
+0.0.0.0 doggygangers.com
