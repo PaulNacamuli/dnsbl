@@ -8,3 +8,8 @@
 
 0.0.0.0 doggygangers.com
 0.0.0.0 andaclesrealty.com
+0.0.0.0 Bootcdn.net
+0.0.0.0 bootcss.com
+0.0.0.0 staticfile.net
+0.0.0.0 staticfile.org
+0.0.0.0 bsclink.cn
